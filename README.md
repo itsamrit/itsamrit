@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-FORK the company repo to your own repo -> Code in your Codespace-> COMMIT to save code with changes on codespace along with timestamp  & message -> PUSH Code from codespace to your own repo -> Make a PULL REQUEST to company codespace to MERGE your code in their repo.
+1. FORK the company repo to your own repoCode in your Codespace
+2. COMMIT to save code/changes in codespace along with timestamp & message
+3. PUSH Code from codespace to your own repo
+4. Make a PULL REQUEST to company codespace to MERGE your code in their repo.
