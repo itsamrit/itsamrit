@@ -2,7 +2,10 @@
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 
+- C
+
+Commit changes in Codespace -> Push to Personal repo -> Make pull request to Company repo
 
 1. FORK the company repo to your own repoCode in your Codespace
 2. COMMIT to save code/changes in codespace along with timestamp & message
