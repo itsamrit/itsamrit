@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-amritrai5757/amritrai5757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FORK the company repo to your own repo -> Code in your Codespace-> COMMIT to save code with changes on codespace along with timestamp  & message -> PUSH Code from codespace to your own repo -> Make a PULL REQUEST to company codespace to MERGE your code in their repo.
