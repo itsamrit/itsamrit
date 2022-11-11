@@ -5,7 +5,7 @@
 - 📫 
 - C
 
-Commit changes in Codespace -> Push to Personal repo -> Make pull request to Company repo
+Commit changes in a brach Codespace -> Push to brach in Personal repo -> Make pull request to brach in Company repo
 
 1. FORK the whole company repo to your own github.
 2. Open the brach you have to work on in your own github ac.
