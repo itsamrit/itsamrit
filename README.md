@@ -14,3 +14,6 @@ Commit changes in a brach Codespace -> Push to brach in Personal repo -> Make pu
 5. SYNC FORK/FETCH to update to yr brach in repo with new changes made on company repo's brach by others.
 6. NOTE: While SYNC FORK ,if changes made on file in company repo & changes made on file by you is same file then CONFLICT will occur & u need to resolve it. 
 7. Make a PULL REQUEST/Contribute to that brach in company repo to MERGE your code in their repo.
+
+NOTE: Fork copies whole repo with all braches
+      But Commit,Push,Pull request,Sync/fetch is done only done on single brach which u are given to work on.
