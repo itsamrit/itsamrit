@@ -17,3 +17,9 @@ Commit changes in a brach Codespace -> Push to brach in Personal repo -> Make pu
 
 NOTE: Fork copies whole repo with all braches.
       But Commit,Push,Pull request,Sync/fetch is done only done on single brach which u are given to work on.
+      
+NOTE: In vscode desktop : 
+1. Install git then connect ur local computer to github ac by typing this in the terminal : 
+2. 1.git config --global user.name "amritrai5757" 
+3. 2.git config --global user.email "amritrai5757@gmail.com"
+Commiting saves code with timestamp in offline,local desktop file just like in online code saved in codespace by commiting. 
