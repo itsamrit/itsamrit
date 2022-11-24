@@ -18,7 +18,12 @@ NOTE: In vscode desktop :
 2. 1.git config --global user.name "amritrai5757" 
 3. 2.git config --global user.email "amritrai5757@gmail.com"
 Commiting saves code with timestamp in offline,local desktop file just like in online code saved in codespace by commiting. 
-
+ 
 
 You need to install something globally which are required to start the project like NODEJS
 Install all other dependencies inside the project locally.
+
+Install docker to  make copy the environment in devcontainer.
+
+You dont need to install anything to open a repo having devcontainer. Just open in codespace it will automatically setup all environment written in devcontainer.
+
