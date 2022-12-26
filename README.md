@@ -1,10 +1,10 @@
-Contribution to a project steps 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️
+Steps to contribute to a project 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️:-
 
 Commit changes in a branch Codespace -> Push to branch in Personal repo -> Make pull request to brach in Company repo
 
 1. FORK the whole company repo to your own github.
-2. Create a Codespace for that BRANCH you have to work on in your own github ac.
-3. Install "dev conatiner" for getting prebuild environment global things like nodejs using "Add dev container configuration files" using "Command Palette"
+2. Create a Codespace for that BRANCH you have to work on in your own github ac or clone repo locally.
+3. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) for getting prebuild environment global things like nodejs using "Add dev container configuration files" using "Command Palette"
 4. COMMIT to that branch to save code/changes in codespace along with timestamp & message
 5. PUSH the commits/Code from codespace to that brach in ur own repo.
 6. SYNC FORK/FETCH to update to yr brach in repo with new changes made on company repo's brach by others. -> FETCH that changes from local repo to yr codespace
