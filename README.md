@@ -5,7 +5,7 @@ Commit changes in a branch Codespace -> Push to branch in Personal repo -> Make 
 1. FORK the whole company repo to your own github.
 2. Create a Codespace for that BRANCH you have to work on in your own github ac or clone repo locally.
 3. While local development, U need to install "Docker desktop" in laptop for opening the project in a container.
-4. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) to "Clone repository in container volume" -> select "BRANCH"-> "Environment like nodejs" if no docker file already defined.[Codespaces is same like local docker] [Never clone the repo locally][Open docker desktop app before opeing vscode]
+4. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) to "Clone repository in container volume" -> select "BRANCH"-> "Environment like nodejs" if no docker file already defined.[Codespaces is same like local docker] [Never clone the repo locally & also in codespace u cant do that so its best to not clone it👍👍][Open docker desktop app before opeing vscode]
 6. COMMIT to that branch to save code/changes in codespace along with timestamp & message
 7. PUSH the commits/Code from codespace to that brach in ur own repo.
 8. SYNC FORK/FETCH to update to yr brach in repo with new changes made on company repo's brach by others. -> FETCH that changes from local repo to yr codespace
