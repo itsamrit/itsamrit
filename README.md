@@ -4,13 +4,13 @@ Commit changes in a branch Codespace -> Push to branch in Personal repo -> Make 
 
 1. FORK the whole company repo to your own github.
 2. Create a Codespace for that BRANCH you have to work on in your own github ac or clone repo locally.
-3. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) for getting prebuild environment global things like nodejs using "Add dev container configuration files" using "Command Palette"
-4. While local development, U need to install "Docker desktop" in laptop for opening the project in a container.
-5. COMMIT to that branch to save code/changes in codespace along with timestamp & message
-6. PUSH the commits/Code from codespace to that brach in ur own repo.
-7. SYNC FORK/FETCH to update to yr brach in repo with new changes made on company repo's brach by others. -> FETCH that changes from local repo to yr codespace
-8. NOTE: While SYNC FORK ,if changes made on file in company repo & changes made on file by you is same file then CONFLICT will occur & u need to resolve it. 
-9. Make a PULL REQUEST/Contribute to that brach in company repo to MERGE your code in their repo.
+3. While local development, U need to install "Docker desktop" in laptop for opening the project in a container.
+4. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) to "Clone repository in container volume" & select "Environment like nodejs" if no docker file already defined.
+6. COMMIT to that branch to save code/changes in codespace along with timestamp & message
+7. PUSH the commits/Code from codespace to that brach in ur own repo.
+8. SYNC FORK/FETCH to update to yr brach in repo with new changes made on company repo's brach by others. -> FETCH that changes from local repo to yr codespace
+9. NOTE: While SYNC FORK ,if changes made on file in company repo & changes made on file by you is same file then CONFLICT will occur & u need to resolve it. 
+10. Make a PULL REQUEST/Contribute to that brach in company repo to MERGE your code in their repo.
 
 NOTE: Fork copies whole repo with all braches.
       But Commit,Push,Pull request,Sync/fetch is done only done on single brach which u are given to work on.
