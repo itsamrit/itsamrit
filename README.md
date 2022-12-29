@@ -20,9 +20,7 @@ NOTE: In vscode desktop :
 1. Install git then connect ur local computer to github ac by typing this in the terminal : 
 2. 1.git config --global user.name "amritrai5757" 
 3. 2.git config --global user.email "amritrai5757@gmail.com"
-4. Use "Clone repository" -> "Clone from github" -> Choose the destination.
 Commiting saves code with timestamp in offline,local desktop file just like in online code saved in codespace by commiting. 
-
 
 Install all other dependencies inside the project locally.
 
