@@ -29,3 +29,5 @@ Install docker to  make copy the environment in devcontainer.
 You dont need to install anything to open a repo having devcontainer. Just open in codespace it will automatically setup all environment written in devcontainer.
 
 Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest.
+
+Note:Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
