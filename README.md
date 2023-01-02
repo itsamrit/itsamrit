@@ -34,3 +34,5 @@ How to reverse the commits 😎:-
 After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit.
 After revert commit command creates an new commit to nullify a commit.
 Note:Deleting a individual commit requires rebasing.Dont do that, it is not the way developers reverse commits. Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
+
+Note : If there is another commit in new line in same file & u want to revert previous commit, conflict will occur. So dont do it
