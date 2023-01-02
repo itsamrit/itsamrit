@@ -31,7 +31,7 @@ You dont need to install anything to open a repo having devcontainer. Just open 
 Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest. Even if company gives access to their repo, it is not for directly working on it. It is that only u can fork it.
 
 How to reverse the commits 😎:-
-After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit.
+After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit. If u have generated PR & now reset the commit less than or equal to organization commit PR will automatically closed by you.
 After revert commit command creates an new commit to nullify a commit.
 Note:Deleting a individual commit requires revert or rebasing.Dont do that, it is not the way developers reverse commits. Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
 
@@ -39,4 +39,6 @@ Note : You can revert a single commit but if no conflict occurs. If there is ano
 
 You cant open another PR from one brach till it is not closed
 
-⚡Avoid Deleting file in file changed in PR doesnt deletes commit to that file but it creates a new commit which deletes the whole file.
+💀Avoid Deleting file in file changed in PR doesnt deletes commit to that file but it creates a new commit which deletes the whole file.
+
+👍PR automatically updated with your commits.
