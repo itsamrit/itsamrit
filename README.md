@@ -30,8 +30,7 @@ You dont need to install anything to open a repo having devcontainer. Just open 
 
 Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest.
 
-Note:Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
-
+How to reverse the commits 😎:-
 After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit.
-
 After revert commit command creates an new commit to nullify a commit.
+Note:Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
