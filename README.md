@@ -14,7 +14,7 @@ Note: U need to select a devcontainer to start local devlopment in container
 10. Make a PULL REQUEST/Contribute to that brach in company repo to MERGE your code in their repo.
 
 NOTE: Fork copies whole repo with all braches.
-      But Commit,Push,Pull request,Sync/fetch is done only done on single brach which u are given to work on.
+      In local vscode directlly use pull(equals fetch->merge), because fetch just tells there is change local github website.
 
 NOTE: In vscode desktop : 
 1. Install git then connect ur local computer to github ac by typing this in the terminal : 
