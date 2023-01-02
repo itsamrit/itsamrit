@@ -36,3 +36,5 @@ After revert commit command creates an new commit to nullify a commit.
 Note:Deleting a individual commit requires revert or rebasing.Dont do that, it is not the way developers reverse commits. Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
 
 Note : You can revert a single commit but if no conflict occurs. If there is another commit in new line in same file & u want to revert previous commit, conflict will occur. So dont do it
+
+You cant open another PR from one brach till it is not closed
