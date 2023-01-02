@@ -42,3 +42,5 @@ You cant open another PR from one brach till it is not closed
 💀Avoid Deleting file in file changed in PR doesnt deletes commit to that file but it creates a new commit which deletes the whole file.
 
 👍PR automatically updated with your commits.
+
+Clear cache if devcontainer not working.
