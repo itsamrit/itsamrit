@@ -28,7 +28,7 @@ Install docker to  make copy the environment in devcontainer.
 
 You dont need to install anything to open a repo having devcontainer. Just open in codespace it will automatically setup all environment written in devcontainer.
 
-Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest.
+Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest. Even if company gives access to their repo, it is not for directly working on it. It is that only u can fork it.
 
 How to reverse the commits 😎:-
 After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit.
