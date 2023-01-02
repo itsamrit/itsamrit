@@ -38,3 +38,5 @@ Note:Deleting a individual commit requires revert or rebasing.Dont do that, it i
 Note : You can revert a single commit but if no conflict occurs. If there is another commit in new line in same file & u want to revert previous commit, conflict will occur. So dont do it
 
 You cant open another PR from one brach till it is not closed
+
+Deleting file in file changed in PR doesnt deletes commit to that file but it creates a new commit which deletes the whole file.
