@@ -32,4 +32,6 @@ Note: If company repo is showing in your "Top repo", it doesnt mean u need to di
 
 Note:Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
 
-If dev configurations gives error select edit dev.. in local vscode
+After reset commit command do "git push --force" to push it. It deletes all commit history after a selected commit.
+
+After revert commit command creates an new commit to nullify a commit.
