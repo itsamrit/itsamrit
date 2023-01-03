@@ -46,3 +46,5 @@ You cant open another PR from one brach till it is not closed
 Clear cache if devcontainer not working.
 
 If port not connecting in container, u need to delete the container & download repo again
+
+In frontend, the developer tools 1st thing i,e console is used to print & debug indexing
