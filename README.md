@@ -44,3 +44,5 @@ You cant open another PR from one brach till it is not closed
 👍PR automatically updated with your commits.
 
 Clear cache if devcontainer not working.
+
+If port not connecting in container, u need to delete the container & download repo again
