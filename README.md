@@ -48,3 +48,5 @@ Clear cache if devcontainer not working.
 If port not connecting in container, u need to delete the container & download repo again
 
 In frontend, the developer tools 1st thing i,e console is used to print & debug indexing
+
+IF u are either working in frontend or backend, u can access the exact divname or name of block in code by using devtools, since it is linked to your local code & localhost. 
