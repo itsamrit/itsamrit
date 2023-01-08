@@ -51,4 +51,4 @@ In frontend, the developer tools 1st thing i,e console is used to print & debug 
 
 IF u are either working in frontend or backend, u can access the exact divname or name of block in code by using devtools, since it is linked to your local code & localhost. 
 
-DOcker crashes then dont retry or edit . Just close vscode & clear cache %temp% temp then restart
+🟢Docker crashes then dont retry or edit . Just close vscode & clear cache %temp% temp then restart
