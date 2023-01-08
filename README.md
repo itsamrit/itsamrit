@@ -52,3 +52,9 @@ In frontend, the developer tools 1st thing i,e console is used to print & debug 
 IF u are either working in frontend or backend, u can access the exact divname or name of block in code by using devtools, since it is linked to your local code & localhost. 
 
 🟢Docker crashes then dont retry or edit . Just close vscode & clear cache %temp% temp then restart
+
+devcontainer.json is specially built for vscode to automatic build all environment or execute the files(it can be docker file also) & specially extensions written in it. It can also have independent images of noejs etc but locally u need docker desktop app to run.
+
+All files having "docker" word are independent image created using docker.
+
+If devcontainer is there & it is written inside devcontainer.json to execute the docker or a image it will execute but if Docker is independent than you can execute the docker file yourself
