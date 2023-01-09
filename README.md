@@ -62,3 +62,4 @@ If devcontainer is there & it is written inside devcontainer.json to execute the
 Run dev configuration using command pallette or anything & it will scan all docker files inside the repo. Either choose the docker or use microsoft devcontainer
 
 Run npm install even after npm is auto installed in node container otherwise concurrency issue while npm run
+It doesnt run even if u use microsoft devcontainer environment & dont do npm install after the auto npm install.
