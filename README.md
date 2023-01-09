@@ -60,3 +60,5 @@ All files having "docker" word are independent image created using docker.
 If devcontainer is there & it is written inside devcontainer.json to execute the docker or a image it will execute but if Docker is independent than you can execute the docker file yourself
 
 Run dev configuration using command pallette or anything & it will scan all docker files inside the repo. Either choose the docker or use microsoft devcontainer
+
+Run npm install even after npm is auto installed in node container otherwise concurrency issue while npm run
