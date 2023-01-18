@@ -64,4 +64,4 @@ Run dev configuration using command pallette or anything & it will scan all dock
 Run npm install even after npm is auto installed in node container otherwise concurrency issue while npm run
 It doesnt run even if u use microsoft devcontainer environment & dont do npm install after the auto npm install.
 
-If npm installtion or any installtion is stuck or doing samething at some point without resulting a error, it is internet problem even if it is 1mb/sec
+If npm installtion or any installtion is stuck or doing samething at some point without resulting a error, it is internet problem even if it is 1mb/sec & even it is 5g wifi & its more than 1000s
