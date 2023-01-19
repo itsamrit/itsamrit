@@ -65,3 +65,5 @@ Run npm install even after npm is auto installed in node container otherwise con
 It doesnt run even if u use microsoft devcontainer environment & dont do npm install after the auto npm install.
 
 If npm installtion or any installtion is stuck or doing samething at some point without resulting a error, it is internet problem even if it is 1mb/sec & even it is 5g wifi & its more than 1000s
+
+After cant compose more than 1 docker file. So after composing using devconfigure, u cant compose any docker file of original github repo
