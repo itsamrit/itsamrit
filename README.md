@@ -69,3 +69,5 @@ If npm installtion or any installtion is stuck or doing samething at some point 
 After cant compose more than 1 docker file. So after composing using devconfigure, u cant compose any docker file of original github repo
 
 In devcontiner, if asking selct service client server. Then select client it will start all the proxy servers required for it.
+
+ThunderClient, PostMan can be used as client side to call the apis
