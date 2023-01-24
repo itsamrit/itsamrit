@@ -71,3 +71,5 @@ After cant compose more than 1 docker file. So after composing using devconfigur
 In devcontiner, if asking selct service client server. Then select client it will start all the proxy servers required for it.
 
 ThunderClient, PostMan can be used as client side to call the apis
+
+502 gateway i,e port forwardeed but server not started run the server
