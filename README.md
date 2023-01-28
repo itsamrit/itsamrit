@@ -1,5 +1,7 @@
 Steps to contribute to a project 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️:-
 
+Dont use mongodb atlas,use local mongodb inside github codespace it stores all data in cloud of database and even your link is something else of server but u will only get your CRUD using thunder by localhost:defined inside container.
+
 Commit changes in a branch Codespace -> Push to branch in Personal repo -> Make pull request to brach in Company repo
 
 1. FORK the whole company repo to your own github.
@@ -78,3 +80,4 @@ ThunderClient, PostMan can be used as client side to call the apis
 NEVER EVER :Either commpose independt using docker or devcontainer make local environt. Dont compsose using devocntainer error in habitica
 
 Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct codespaces doest allows port to be localhost
+
