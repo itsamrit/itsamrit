@@ -74,3 +74,5 @@ In devcontiner, if asking selct service client server. Then select client it wil
 ThunderClient, PostMan can be used as client side to call the apis
 
 502 gateway i,e port forwardeed but server not started run the server
+
+Either commpose independt using docker or devcontainer make local environt. Dont compsose using devocntainer error in habitica
