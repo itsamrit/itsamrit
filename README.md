@@ -75,4 +75,6 @@ ThunderClient, PostMan can be used as client side to call the apis
 
 502 gateway i,e port forwardeed but server not started run the server
 
-Either commpose independt using docker or devcontainer make local environt. Dont compsose using devocntainer error in habitica
+NEVER EVER :Either commpose independt using docker or devcontainer make local environt. Dont compsose using devocntainer error in habitica
+
+Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct codespaces doest allows port to be localhost
