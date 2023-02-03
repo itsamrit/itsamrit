@@ -82,3 +82,6 @@ NEVER EVER :Either commpose independt using docker or devcontainer make local en
 Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct codespaces doest allows port to be localhost
 
 .env.example or config.json.example is given to modify & store local database & api keys setup
+
+u need to install mongodb shelll in terminall & then start mongodb database & then in anotehr terminal connect your /project database
+https://github.com/microsoft/WSL/issues/1822#issuecomment-330128322
