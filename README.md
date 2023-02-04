@@ -85,3 +85,6 @@ Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct co
 
 u need to install mongodb shelll in terminall & then start mongodb database & then in anotehr terminal connect your /project database
 https://github.com/microsoft/WSL/issues/1822#issuecomment-330128322
+
+
+Adoption of devcontainer with take hardly 5 months then do development
