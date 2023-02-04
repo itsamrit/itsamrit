@@ -6,7 +6,6 @@ Commit changes in a branch Codespace -> Push to branch in Personal repo -> Make 
 
 1. FORK the whole company repo to your own github.
 2. Create a Codespace for that BRANCH you have to work on in your own github ac or clone repo locally.
-3. While local development, U need to install "Docker desktop" in laptop for opening the project in a container.
 4. Install "dev conatiner"(in online codespace prebuild, no need to install dev container) to "Clone repository in container volume" -> select "BRANCH"-> "Environment like nodejs" if no docker file already defined.[Codespaces is same like local docker] [Never clone the repo locally & also in codespace u cant do that so its best to not clone it👍👍][Open docker desktop app before opeing vscode]
 Note: U need to select a devcontainer to start local devlopment in container 
 6. COMMIT to that branch to save code/changes in codespace along with timestamp & message
@@ -17,12 +16,7 @@ Note: U need to select a devcontainer to start local devlopment in container
 
 NOTE: Fork copies whole repo with all braches.
       In local vscode directlly use pull(equals fetch->merge), because fetch just tells there is change local github website.
-
-NOTE: In vscode desktop : 
-1. Install git then connect ur local computer to github ac by typing this in the terminal : 
-2. 1.git config --global user.name "amritrai5757" 
-3. 2.git config --global user.email "amritrai5757@gmail.com"
-Commiting saves code with timestamp in offline,local desktop file just like in online code saved in codespace by commiting. 
+ 
 
 Install all other dependencies inside the project locally.
 
@@ -83,7 +77,7 @@ Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct co
 
 .env.example or config.json.example is given to modify & store local database & api keys setup
 
-u need to install mongodb shelll in terminall & then start mongodb database & then in anotehr terminal connect your /project database
+u need to start mongodb database & then in anotehr terminal connect your /project database
 https://github.com/microsoft/WSL/issues/1822#issuecomment-330128322
 
 
