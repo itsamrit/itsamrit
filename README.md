@@ -77,6 +77,4 @@ Github codespace extension : ALows to use localhost i,e 127.0.0.1. but direct co
 
 .env.example or config.json.example is given to modify & store local database & api keys setup
 
-Select mongoshell in dependencies to connect to database in devcontainer
-
 Adoption of devcontainer with take hardly 5 months then do development
