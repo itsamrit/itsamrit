@@ -1,3 +1,5 @@
+The whole code is combined & separated in css & js & build in build folder while npm i. & that folder is used by develper tools so you can search the name of button etc in sources of developer tools
+
 Steps to contribute to a project 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️:-
 
 Dont use mongodb atlas,use local mongodb inside github codespace it stores all data in cloud of database and even your link is something else of server but u will only get your CRUD using thunder by localhost:defined inside container.
@@ -28,6 +30,8 @@ Note: If company repo is showing in your "Top repo", it doesnt mean u need to di
 
 How to reverse the commits 😎:-
 After reset commit command (it will show to pull/sync from local github website, but dont do that) do "git push --force" to push it. It deletes all commit history after a selected commit. If u have generated PR & now reset the commit less than or equal to organization commit PR will automatically closed by you.
+
+
 After revert commit command creates an new commit to nullify a commit.
 Note:Deleting a individual commit requires revert or rebasing.Dont do that, it is not the way developers reverse commits. Never use rebase command while working on an organinzation projects. It is used for changing commit from one branch to another or something like this.
 
