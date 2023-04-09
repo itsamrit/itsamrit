@@ -1,5 +1,7 @@
 The whole code is combined & separated in css & js & build in build folder while npm i. & that folder is used by develper tools so you can search the name of button etc in sources of developer tools
 
+U can upload local file to a new github repo by "publish branch"
+
 Steps to contribute to a project 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️:-
 
 Dont use mongodb atlas,use local mongodb inside github codespace it stores all data in cloud of database and even your link is something else of server but u will only get your CRUD using thunder by localhost:defined inside container.
