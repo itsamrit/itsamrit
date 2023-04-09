@@ -29,7 +29,7 @@ You dont need to install anything to open a repo having devcontainer. Just open 
 Note: If company repo is showing in your "Top repo", it doesnt mean u need to directlly work on it. It only means you have either opened a issue,commented or pull reequest. Even if company gives access to their repo, it is not for directly working on it. It is that only u can fork it.
 
 How to reverse the commits 😎:-
-After reset commit command (it will show to pull/sync from local github website, but dont do that) do "git push --force" to push it. It deletes all commit history after a selected commit. If u have generated PR & now reset the commit less than or equal to organization commit PR will automatically closed by you.
+After reset commit->hard command (it will show to pull/sync from local github website, but dont do that) do "git push --force" to push it. It deletes all commit history after a selected commit. If u have generated PR & now reset the commit less than or equal to organization commit PR will automatically closed by you.
 
 
 After revert commit command creates an new commit to nullify a commit.
