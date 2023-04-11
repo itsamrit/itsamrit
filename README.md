@@ -1,5 +1,6 @@
 The whole code is combined & separated in css & js & build in build folder while npm i. & that folder is used by develper tools so you can search the name of button etc in sources of developer tools
 
+When version problem like node needs to be upgraaded or degraded for innstalling some dependency then sudo npm i..
 U can upload local file to a new github repo by "publish branch"
 
 Steps to contribute to a project 🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️:-
