@@ -23,6 +23,7 @@
 
 
 
+Whatever is added in gitignore completely ignored & you need to add environment variables using server website dashboard like aws or automate process using some cicd tools & specify the whatever is stored in.env file.
 
 The whole code is combined & separated in css & js & build in build folder while npm i. & that folder is used by develper tools so you can search the name of button etc in sources of developer tools
 
