@@ -1,3 +1,5 @@
+https://www.linkedin.com/in/amritrai/
+
 https://github.com/ashishps1/awesome-low-level-design
 
 ## 🌐 Socials:
